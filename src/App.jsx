@@ -33,7 +33,7 @@ const App = () => {
   return(
     <Container sx={{
       background: "whitesmoke",
-      width: "80vw",
+      width: "90vw",
       minHeight: "500px",
       borderRadius: "16px",
       marginTop: "40px",
